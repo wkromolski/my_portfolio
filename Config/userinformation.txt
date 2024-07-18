@@ -1,10 +1,10 @@
-https://yourprofilepic.png
-Your Name
-Your Role @ Company
-Your Location
+https://raw.githubusercontent.com/wkromolski/my_portfolio/a1368780cb3b581a508d9e4a3bdadb0f34c926e5/Resources/Images/profilepic.JPG
+Wojtek Kromólski
+Junior 3D Artist | Game Dev Student at Collegium Da Vinci
+Poznań
 https://x.com/ArtOfPilgrim
 http://youtube.com/c/ArtofPilgrim
 https://www.linkedin.com/in/thomasrwbutters/
 https://www.artstation.com/art_of_pilgrim
 https://discord.com/invite/WCnQ5bQa6Q
-youremail@email.com
+wkromolski@gmail.com
